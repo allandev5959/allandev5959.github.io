@@ -39,7 +39,7 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 ## Reading Material
 [Link1](https://isc.sans.edu/forums/diary/An+Introduction+to+RSA+Netwitness+Investigator/18199/){:target="_blank"}
-[Link2][https://resources.infosecinstitute.com/topic/pcap-analysis-basics-with-wireshark/){:target="_blank"}
+[Link2](https://resources.infosecinstitute.com/topic/pcap-analysis-basics-with-wireshark/){:target="_blank"}
 [Link3](https://isc.sans.edu/forums/diary/Packet+Tricks+with+xxd/10306/]){:target="_blank"}
 
 ## Scenario Questions
