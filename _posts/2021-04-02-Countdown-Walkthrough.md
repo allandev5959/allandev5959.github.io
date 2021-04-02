@@ -117,7 +117,7 @@ Hint: It is possible this information was stored in a Sticky Note. Find this in 
 I used hint provided by BTLO for this question, we need to extract the "thumbcache256.db" under 
 
 {% highlight js %}
-"/Users/Zerry/AppData/Local/Microsoft/Windows/Explorer"
+/Users/Zerry/AppData/Local/Microsoft/Windows/Explorer
 {% endhighlight %}
 
 Then use "Thumbcache Viewer" under tools folder to open the database to view the images.
