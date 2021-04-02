@@ -118,7 +118,7 @@ I used hint provided by BTLO for this question, we need to extract the "thumbcac
 
 {% highlight js %}
 "/Users/Zerry/AppData/Local/Microsoft/Windows/Explorer"
-{% highlight js %}
+{% endhighlight %}
 
 Then use "Thumbcache Viewer" under tools folder to open the database to view the images.
 
