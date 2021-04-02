@@ -8,12 +8,7 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 ## Pretium Video Walkthough 
 
-<iframe width="560"
-        height="315"
-        src="https://youtu.be/qJATvmgXNhA"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/qJATvmgXNhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Scenario
 ***The Security Operations Center at Defense Superior are monitoring a customer’s email gateway and network traffic (Crimeson LLC). One of the SOC team identified some anomalous traffic from Josh Morrison’s workstation, who works as a Junior Financial Controller. When contacted Josh mentioned he received an email from an internal colleague asking him to download an invoice via a hyperlink and review it. The email read:***

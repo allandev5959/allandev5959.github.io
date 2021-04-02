@@ -6,12 +6,7 @@ title: BTLO Countdown Walkthrough
 
 ## Countdown Video Walkthough 
 
-<iframe width="560"
-        height="315"
-        src="https://youtu.be/YrfyzyiXvek"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/YrfyzyiXvek" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Scenario
 
