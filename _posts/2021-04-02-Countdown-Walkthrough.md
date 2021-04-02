@@ -103,7 +103,7 @@ eekurk@baybabes.com
 
 ### What is the filename(including extension) that is received as an attachment via email?
 
-From the conversation, we find the criminals trying to bomb the city. Zerry wants to know the bomb time. So, a image file contains date and time was being downloaded. We can locate the image file downloaded at Autopsy Recent Documents. The emoji for the filename are "time" and "Calender".
+From the conversation, we find the criminals are trying to bomb the city. Zerry wants to know the bomb time. So, a image file contains date and time was being downloaded. We can locate the image file downloaded at Autopsy Recent Documents. The emoji for the filename are "time" and "Calender".
 
 ![screenshot](https://bohansec.com/assets/Countdown/10.PNG "screenshot")
 ![screenshot](https://bohansec.com/assets/Countdown/11.PNG "screenshot")
