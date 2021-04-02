@@ -162,7 +162,7 @@ tshark.lnk -r C:\Users\BTLOTest\Desktop\Investigation\LAB.pcap -T fields -e data
 
 ![screenshot](https://bohansec.com/assets/Pretium/13.PNG "screenshot")
 
-Open the result.txt file we just created, we find some data presented in hexadecimal. if you are familar with the scripting, you could automate the following steps and save a ton of time. But we will do it manually fow now.
+Open the result.txt file we just created, we find some data presented in hexadecimal. if you are familar with the scripting, you could automate the following steps and save a ton of time. But we will do it manually for now.
 
 ![screenshot](https://bohansec.com/assets/Pretium/14.PNG "screenshot")
 
