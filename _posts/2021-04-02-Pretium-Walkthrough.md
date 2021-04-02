@@ -194,10 +194,10 @@ The full URL if you do not want to type:
 https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)&input=VUFCaEFITUFjd0IzQUc4QWMgZ0JrQUNBQVpnQnZBSElBSUFCdEFIa0FJQUFrQUhNQVpRQmpBQzBBWVFCakEgR01BYndCMUFHNEFkQUE2QUNBQVdRQXdBSFVBZEFCb0FHa0FiZ0JyQUhrQU1BQjFBR01BUVFCdUFHTUFOQUIwQUdNQWFBQnRBRE1BSkFBa0FBPT0
 {% endhighlight %}
 
-
-
 Answer:
+{% highlight js %}
 Y0uthinky0ucAnc4tchm3$$
+{% endhighlight %}
 
 ### What is the account’s username?
 
