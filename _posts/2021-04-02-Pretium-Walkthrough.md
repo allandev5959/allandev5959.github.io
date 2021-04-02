@@ -125,7 +125,7 @@ Mozilla/5.0
 
 ### You are seeing a lot of HTTP traffic. What is the name of a process where malware communicates with a central server asking for instructions at set time intervals
 
-The answer is "beaconing" but if you do not know the answer, you can alwasy google it.
+The answer is "beaconing" but if you do not know the answer, you can always google it.
 
 ![screenshot](https://bohansec.com/assets/Pretium/10.PNG "screenshot")
 
