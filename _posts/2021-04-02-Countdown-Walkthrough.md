@@ -38,7 +38,7 @@ Medium
 
 ### Verify the Disk Image. Submit SectorCount and MD5
 
-The first question is quite stright forward, we can find the answer under "Desktop -> Investigation Files-> Disk Image -> Zerry -> Zerry.E01(text file)", we can see the md5 presented in the file.
+The first question is quite straightforward, we can find the answer under "Desktop -> Investigation Files-> Disk Image -> Zerry -> Zerry.E01(text file)", we can see the md5 presented in the file.
 
 ![screenshot](https://bohansec.com/assets/Countdown/1.PNG "screenshot")
 
