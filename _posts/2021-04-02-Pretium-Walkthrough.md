@@ -94,14 +94,14 @@ Answer:
 By looking at the traffic 4502, and expanding the "Hyper Text Transfer Protocol" tab, we can find the full request URL is 
 
 {% highlight js %}
-"http://192.168.1.9:443/INVOICE_2021937.pdf.bat"
+http://192.168.1.9:443/INVOICE_2021937.pdf.bat
 {% endhighlight %}
 
 ![screenshot](https://bohansec.com/assets/Pretium/6.PNG "screenshot")
 
 Answer:
 {% highlight js %}
-"http://192.168.1.9:443/INVOICE_2021937.pdf.bat"
+http://192.168.1.9:443/INVOICE_2021937.pdf.bat
 {% endhighlight %}
 
 ### Find the PowerShell launcher string (you don’t need to include the base64 encoded script)
