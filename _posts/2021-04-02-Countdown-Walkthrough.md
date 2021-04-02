@@ -43,7 +43,9 @@ The first question is quite stright forward, we can find the answer under "Deskt
 ![screenshot](https://bohansec.com/assets/Countdown/1.PNG "screenshot")
 
 Answer: 
+{% highlight js %}
 5c4e94315039f890e839d6992aeb6c58
+{% endhighlight %}
 
 ### What is the decryption key of the online messenger app used by Zerry?
 
@@ -108,7 +110,9 @@ Answer:
 
 ### What is the Date and Time of the planned attack?
 
+{% highlight js %}
 ***Hint: It is possible this information was stored in a Sticky Note. Find this in /Users/Zerry/AppData/Local/Packages and export it. Open the plum.sqlite database file in the /LocalState/ directory using SQLiteDatabaseBrowser. Find which table the notes are stored in. We can work out how to decrypt the encoded result by checking recent sites visited via Tor in Autopsy by looking at /Tor Browser/Browser/TorBrowser/Data/Browser/proile.default/places.sqlite.***
+{% endhighlight %}
 
 I used hint provided by BTLO for this question, we need to extract the "thumbcache256.db" under "/Users/Zerry/AppData/Local/Microsoft/Windows/Explorer", then use "Thumbcache Viewer" under tools folder to open the database to view the images.
 
@@ -120,7 +124,9 @@ Answer:
 
 ### What is the GPS location of the blast? The format is the same as found in the evidence . [Hint: Encode(XX Degrees,XX Minutes, XX Seconds)] 
 
+{% highlight js %}
 ***Hint: It is possible this information was stored in a Sticky Note. Find this in /Users/Zerry/AppData/Local/Packages and export it. Open the plum.sqlite database file in the /LocalState/ directory using SQLiteDatabaseBrowser. Find which table the notes are stored in. We can work out how to decrypt the encoded result by checking recent sites visited via Tor in Autopsy by looking at /Tor Browser/Browser/TorBrowser/Data/Browser/proile.default/places.sqlite.***
+{% endhighlight %}
 
 The last question is quite tricky since you need to be very familar with the file system in order to solve it. I used hint provided by BTLO for this question. First, we need to locate the stickynote the criminal left based on the hint. Frist, lets export the folder the file located at from Autopsy. The folder is "/Users/Zerry/AppData/Local/Packages"
 

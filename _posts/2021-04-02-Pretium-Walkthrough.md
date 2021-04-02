@@ -91,12 +91,18 @@ Answer:
 
 ### Now that you know the payload name and the module used to deliver the malicious files, what is the URL that was embedded in the malicious email?
 
-By looking at the traffic 4502, and expanding the "Hyper Text Transfer Protocol" tab, we can find the full request URL is "http://192.168.1.9:443/INVOICE_2021937.pdf.bat"
+By looking at the traffic 4502, and expanding the "Hyper Text Transfer Protocol" tab, we can find the full request URL is 
+
+{% highlight js %}
+"http://192.168.1.9:443/INVOICE_2021937.pdf.bat"
+{% endhighlight %}
 
 ![screenshot](https://bohansec.com/assets/Pretium/6.PNG "screenshot")
 
 Answer:
-http://192.168.1.9:443/INVOICE_2021937.pdf.bat
+{% highlight js %}
+"http://192.168.1.9:443/INVOICE_2021937.pdf.bat"
+{% endhighlight %}
 
 ### Find the PowerShell launcher string (you don’t need to include the base64 encoded script)
 
@@ -160,7 +166,13 @@ Open the result.txt file we just created, we find some data presented in hexadec
 
 ![screenshot](https://bohansec.com/assets/Pretium/14.PNG "screenshot")
 
-Go to [CyberChief](https://gchq.github.io/CyberChef/){:target="_blank"}, copy and paste the strings to the cyberchief, and convert the hex to ascii. we have "UUAABBhhAAHHMMAAccwwBB33AAGG88AAc" as the converted ascii.
+Go to [CyberChief](https://gchq.github.io/CyberChef/){:target="_blank"}, copy and paste the strings to the cyberchief, and convert the hex to ascii. we have 
+
+{% highlight js %}
+UUAABBhhAAHHMMAAccwwBB33AAGG88AAc
+{% endhighlight %}
+
+as the converted ascii.
 
 ![screenshot](https://bohansec.com/assets/Pretium/15.PNG "screenshot")
 
@@ -169,7 +181,11 @@ Let's try to decode it with Base64, the result does not make any sense. If you l
 ![screenshot](https://bohansec.com/assets/Pretium/16.PNG "screenshot")
 ![screenshot](https://bohansec.com/assets/Pretium/17.PNG "screenshot")
 
-Repeat the above steps for the next two sections of the hexadecimal. We got our result back as a full sentence. "P.a.s.s.w.o.r.d. .f.o.r. .m.y. .$.s.e.c.-.a.c.c.o.u.n.t.:. .Y.0.u.t.h.i.n.k.y.0.u.c.A.n.c.4.t.c.h.m.3.$.$."
+Repeat the above steps for the next two sections of the hexadecimal. We got our result back as a full sentence. 
+
+{% highlight js %}
+P.a.s.s.w.o.r.d. .f.o.r. .m.y. .$.s.e.c.-.a.c.c.o.u.n.t.:. .Y.0.u.t.h.i.n.k.y.0.u.c.A.n.c.4.t.c.h.m.3.$.$.
+{% endhighlight %}
 
 ![screenshot](https://bohansec.com/assets/Pretium/18.PNG "screenshot")
 
