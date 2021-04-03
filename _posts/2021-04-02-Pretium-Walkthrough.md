@@ -53,7 +53,7 @@ Open the LAB.pcap file from Wireshark.
 
 ![screenshot](https://bohansec.com/assets/Pretium/1.PNG "screenshot")
 
-Since we know Josh downloaded a maclious "invoice" file, we will filter through HTTP traffic to see if we can find anything from there. We will also add the HTTP filter as the label for easier access later.
+Since we know Josh downloaded a malicious "invoice" file, we will filter through HTTP traffic to see if we can find anything from there. We will also add the HTTP filter as the label for easier access later.
 
 ![screenshot](https://bohansec.com/assets/Pretium/2.PNG "screenshot")
 ![screenshot](https://bohansec.com/assets/Pretium/3.PNG "screenshot")
