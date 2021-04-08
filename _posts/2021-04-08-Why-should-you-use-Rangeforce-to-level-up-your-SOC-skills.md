@@ -6,7 +6,7 @@ title: Why should you use Rangeforce to level up your SOC skills?
 
 ### Disclaimer
 
-***I do not work for Rangeforce or affiliate with Rangeforce, this post will purely reflect my experience with the platform itself.***
+***I do not work for Rangeforce or affiliate with Rangeforce, this post purely reflects my experience with the platform itself.***
 
 A couple of days ago, I finished the "SOC 2 Battle Path" on the [Rangeforce](https://www.rangeforce.com){:target="_blank"} platform. This is one of the platforms that really broaden my knowledge on SOC, expose me to a few new tools, and make me more confident in preparing for my job. If you don't know what Rangefoce is, it's a platform specifically designed to level up your SOC skills. There are several different battle path, but "[SOC 1 Battle Path](https://f.hubspotusercontent20.net/hubfs/7639879/Data%20Sheets/Rebranded%20Data%20Sheets%20(2021)/Battle%20Paths/SOC%20Analyst%201%20Battle%20Path%20Data%20Sheet.pdf){:target='_blank'}", "[SOC 2 Battle Path](https://f.hubspotusercontent20.net/hubfs/7639879/Data%20Sheets/Rebranded%20Data%20Sheets%20(2021)/Battle%20Paths/SOC%20Analyst%202%20Battle%20Path%20Data%20Sheet.pdf){:target='_blank'}", and "[Threat Hunting Battle Path](https://f.hubspotusercontent20.net/hubfs/7639879/Data%20Sheets/Rebranded%20Data%20Sheets%20(2021)/Battle%20Paths/Threat%20Hunter%20Battle%20Path%20Data%20Sheet.pdf){:target='_blank'}" will prepare you or advance your
 blue team skills. 
