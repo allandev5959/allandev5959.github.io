@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RangeForce Review
+title: Why should you use Rangeforce to level up your SOC skills?
 ---
 ![Alt](https://bohansec.com/assets/Rangeforce/cookie-the-pom-gySMaocSdqs-unsplash.jpg "Rangeforce")
 
