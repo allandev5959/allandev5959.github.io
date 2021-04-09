@@ -30,7 +30,7 @@ Each section requires you to perform certain tasks in order to count as finished
  
 There are other perspectives RangeForce can offer you if you want to explore more. For instance, while I did my "SOC 2 Battle Path", I also spend a little extra time exploring the SOAR, QRadar, and the FortiOS firewall exclusively. So, if you want to learn a security product instead of going through the whole Battle Path, there is always something for you. As they are adding more vendors to the platform, I believe there will be more and more quality content on the platform available. 
  
-The toughest part for the SOC 2 Battle Path perhaps it is the "Botnet Challenge" path, it won't necessarily teach you how to "actually" take down a botnet, but really test your scripting skill. But I found this challenge quite fun too, and feel a sense of satisfaction after complete it. 
+The toughest part for the SOC 2 Battle Path perhaps it is the "Botnet Challenge" path, it won't necessarily teach you how to "actually" take down a botnet, but really test your scripting skill. I found this challenge is quite fun, and feel a sense of satisfaction after complete it. 
  
 Overall, I highly recommend you to try one of the battle paths if you want to get some hands-on experience with tools used in a SOC, and level up your skills to the next level. Plus, you will get a nice badge from RangeForce after you complete the path :) That's it for today, happy defending!
 
