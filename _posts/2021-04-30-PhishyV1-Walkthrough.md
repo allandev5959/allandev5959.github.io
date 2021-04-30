@@ -10,7 +10,7 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 <div class="youtube-wrapper">
     <iframe 
-            src="https://youtu.be/embed/A2kwlPcv7Xc"
+            src="https://www.youtube.com/embed/A2kwlPcv7Xc"
             frameborder="0"
             allow="autoplay; encrypted-media"
             allowfullscreen></iframe>
