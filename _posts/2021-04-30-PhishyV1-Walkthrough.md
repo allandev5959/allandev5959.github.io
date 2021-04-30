@@ -47,7 +47,9 @@ Look for the webroot for the phishy website, then open the HTML source page to l
 
 Answer:
 
+{% highlight js %}
 61.221.12.26/cgi-sys/defaultwebpage.cgi, HTTrack
+{% endhighlight %}
 
 ### What is the full URL of the background image which is on the phishing landing page?
 
@@ -57,7 +59,9 @@ On the landing page, right-click, and follow the background image link.
 
 Answer:
 
+{% highlight js %}
 http://Securedocument.net/secure/L0GIN/protected/login/portal/axCBhIt.png
+{% endhighlight %}
 
 ### What is the name of the php page which will process the stolen credentials?
 
