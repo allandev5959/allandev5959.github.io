@@ -10,12 +10,11 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 <div class="youtube-wrapper">
     <iframe 
-            src="https://www.youtube.com/embed/vGdN4RW6DWYc"
+            src="https://www.youtube.com/embed/vGdN4RW6DWY"
             frameborder="0"
             allow="autoplay; encrypted-media"
             allowfullscreen></iframe>
 </div>
-
 
 
 ## Scenario
