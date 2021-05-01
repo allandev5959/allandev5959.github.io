@@ -8,7 +8,7 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 Note, the free BTLO challenge will be video only :)
 
-## Malicious Powershell Analysis Video Walkthough 
+## Malicious Powershell Analysis Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 

@@ -6,7 +6,7 @@ title: BTLO PhishyV1 Walkthrough
 
 The writeups will be a series to document how I solved each scenario on BTLO (Blue Team Labs Online), hope you will enjoy it :)
 
-## PhishyV1 Video Walkthough 
+## PhishyV1 Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 
@@ -20,9 +20,9 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 ## Scenario
 
-***You have been sent a phishing link - It is your task to investigate this website and find out everything you can about the site, the actor responsible, and perform threat intelligence work on the operator(s) of the phishing site.*** 
+*** You have been sent a phishing link - It is your task to investigate this website and find out everything you can about the site, the actor responsible, and perform threat intelligence work on the operator(s) of the phishing site. *** 
 
-***Warning: The website and kit you see is the lab is REAL. Exercise caution when interacting with the malicious website and do not enter any sensitive information***
+*** Warning: The website and kit you see is the lab is REAL. Exercise caution when interacting with the malicious website and do not enter any sensitive information ***
 
 ## Tools
 Web Browser 

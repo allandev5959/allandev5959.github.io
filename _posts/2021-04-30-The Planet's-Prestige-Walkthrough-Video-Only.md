@@ -8,7 +8,7 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 Note, the free BTLO challenge will be video only :)
 
-## The Planet's Prestige Video Walkthough 
+## The Planet's Prestige Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 

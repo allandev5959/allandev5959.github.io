@@ -6,7 +6,7 @@ title: BTLO Pretium Walkthrough
 
 The writeups will be a series to document how I solved each scenario on BTLO (Blue Team Labs Online), hope you will enjoy it :)
 
-## Pretium Video Walkthough 
+## Pretium Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 

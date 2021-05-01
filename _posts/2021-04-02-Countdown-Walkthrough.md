@@ -4,7 +4,7 @@ title: BTLO Countdown Walkthrough
 ---
 ![Alt](https://bohansec.com/assets/Countdown/coverpage.jpg "Security Blue Team")
 
-## Countdown Video Walkthough 
+## Countdown Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 

@@ -8,7 +8,7 @@ The writeups will be a series to document how I solved each scenario on BTLO (Bl
 
 Note, the free BTLO challenge will be video only :)
 
-## Network Analysis Webshell Video Walkthough 
+## Network Analysis Webshell Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 

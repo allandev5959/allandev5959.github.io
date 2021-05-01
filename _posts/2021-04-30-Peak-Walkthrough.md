@@ -6,7 +6,7 @@ title: BTLO PEAK Walkthrough
 
 The writeups will be a series to document how I solved each scenario on BTLO (Blue Team Labs Online), hope you will enjoy it :)
 
-## PEAK Video Walkthough 
+## PEAK Video Walkthrough 
 
 <div class="youtube-wrapper">
     <iframe 
