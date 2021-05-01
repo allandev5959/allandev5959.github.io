@@ -6,7 +6,7 @@ title: BTLO PhishyV1 Walkthrough
 
 The writeups will be a series to document how I solved each scenario on BTLO (Blue Team Labs Online), hope you will enjoy it :)
 
-## Pretium Video Walkthough 
+## PhishyV1 Video Walkthough 
 
 <div class="youtube-wrapper">
     <iframe 
