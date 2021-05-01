@@ -2,7 +2,7 @@
 layout: post
 title: BTLO Malicious Powershell Analysis Walkthrough (Video Only)
 ---
-![Alt](https://bohansec.com/assets/powershell/cover.png "Security Blue Team")
+![Alt](https://bohansec.com/assets/powershell/cover.jpg "Security Blue Team")
 
 The writeups will be a series to document how I solved each scenario on BTLO (Blue Team Labs Online), hope you will enjoy it :)
 
