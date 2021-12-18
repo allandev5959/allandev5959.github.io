@@ -68,7 +68,7 @@ In this final section, I want to give a big shoutout to the course instructor Al
 
 Overall, I highly recommend this course to anyone who wants to start their malware analysis journey or is just curious about malware analysis. 
 
-![eCMAP](https://bohansec.com/assets/ecmap/2.png "eCMAP")
+![eCMAP](https://bohansec.com/assets/ecmap/2.PNG "eCMAP")
 
 
 
