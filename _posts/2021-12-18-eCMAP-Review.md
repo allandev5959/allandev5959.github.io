@@ -2,7 +2,7 @@
 layout: post
 title: My eCMAP Review
 ---
-![Alt](https://bohansec.com/assets/ecmap/1.jpg "Photo by Alexander Andrews on Unsplash")
+![Alt](https://bohansec.com/assets/ecmap/1.jpg "Photo by Qijin Xu on Unsplash")
 
 A few days ago, I passed the eCMAP from eLearnSecurity. In this review, I would like to share my experience and thoughts on this course, and a few small tips on how you could pass the exam. 
 
