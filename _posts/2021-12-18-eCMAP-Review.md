@@ -62,7 +62,7 @@ I enjoyed the final exam so much and I feel I learned so much from the exam itse
 
 ## Credits and Suggestions  
 
-In this final section, I want to give a big shoutout to the course instructor Ali Hadi and the entire INE team. I think this course gives you a good introduction to malware analysis. Although it is not super in-depth and advanced like the Zero2Automated, it gives you a good start for learning about malware analysis. I say this course opened the door for me to malware analysis and reverse engineering. It prepared me well so I can analyze a malware sample on my own both statically and dynamically. However, I think it would be beneficial for this course or future courses to include more types of malware such as malicious documents or MalDocs. More frequent updates on the course content would be also appreciated, such as including more recent malware samples. 
+In this final section, I want to give a big shutout to the course instructor Ali Hadi and the entire INE team. I think this course gives you a good introduction to malware analysis. Although it is not super in-depth and advanced like the Zero2Automated, it gives you a good start for learning about malware analysis. I say this course opened the door for me to malware analysis and reverse engineering. It prepared me well so I can analyze a malware sample on my own both statically and dynamically. However, I think it would be beneficial for this course or future courses to include more types of malware such as malicious documents or MalDocs. More frequent updates on the course content would be also appreciated, such as including more recent malware samples. 
 
 ## Conclusion
 
