@@ -18,7 +18,7 @@ As you can see in the screenshot, the majority of the Surfshark IP runs on Datac
 
 In this article, I will walk you through how to set up an OpenVPN access server on an AWS EC2 instance. 
 
-If this is your first time using AWS, you need to sign up for an account on aws.amazon.com. You will be logged in as an AWS root user however it’s the best practice to create a separate IAM account for day-to-day usage. 
+If this is your first time using AWS, you need to sign up for an account on [aws.amazon.com](aws.amazon.com){:target="_blank"}. You will be logged in as an AWS root user however it’s the best practice to create a separate IAM account for day-to-day usage. 
 
 ![image](https://bohansec.com/assets/vpn-blog/6.png "image")
 
