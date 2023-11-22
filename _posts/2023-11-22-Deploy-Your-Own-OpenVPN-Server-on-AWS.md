@@ -38,7 +38,7 @@ Next, let’s click on “Continue to Subscribe” with our OpenVPN Access Serve
 
 ![image](https://bohansec.com/assets/vpn-blog/10.png "image")
 
-On the “Launch this software” page, change the “EC2 Instance Type” to “t2.micro” and “Security Group Settings” to the one OpenVPN has configured for you. I set the “Security Group” to the custom security group “OpenVPN-SG” I created earlier. Please refer to the OpenVPN official documentation with the following ports need that to be opened: https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/
+On the “Launch this software” page, change the “EC2 Instance Type” to “t2.micro” and “Security Group Settings” to the one OpenVPN has configured for you. I set the “Security Group” to the custom security group “OpenVPN-SG” I created earlier. Please refer to the OpenVPN official documentation with the following ports need that to be opened: [https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/](https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/){:target="_blank"}
 
 > For the security group, we recommend using the default group for the marketplace instance but adjusting the sources for some ports to improve security. 
 
@@ -86,7 +86,7 @@ After the configuration is finished, we can see my Admin portal is located at �
 
 After you log into your admin portal, navigate to “VPN Settings” and toggle on the option “Should client Internet traffic be routed through the VPN?” to Yes. This will allow all the outbound traffic from your client to be encrypted and sent through the OpenVPN server before they are hit off to the internet. Additionally, we can toggle on “Have clients use specific DNS servers” and set the primary DNS server to CloudFlare DNS 1.1.1.1 and Google DNS 8.8.8.8 for improved privacy. For more information on why you shouldn’t use the default ISP DNS server, please refer to the following article:
 
-https://www.howtogeek.com/664608/why-you-shouldnt-be-using-your-isps-default-dns-server/#dns-is-not-private-without-doh
+[https://www.howtogeek.com/664608/why-you-shouldnt-be-using-your-isps-default-dns-server/#dns-is-not-private-without-doh](https://www.howtogeek.com/664608/why-you-shouldnt-be-using-your-isps-default-dns-server/#dns-is-not-private-without-doh){:target="_blank"}
 
 ![image](https://bohansec.com/assets/vpn-blog/20.png "image")
 
@@ -94,9 +94,9 @@ Optionally, you can also set a custom domain to the hostname and you can directl
 
 Please refer to the following articles on how to configure an A record for your domain: 
 
-https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/
+[https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/](https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/){:target="_blank"}
 
-https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/
+[https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/](https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/){:target="_blank"}
 
 Once you configured the A record then wait for 30 minutes to an hour for the DNS record to be propagated throughout the internet. 
 
@@ -104,7 +104,7 @@ Once you configured the A record then wait for 30 minutes to an hour for the DNS
 
 Next, depending on your operating system. we can download a VPN client at the following URL, and connect to the VPN server with the credentials we set earlier. 
 
-https://openvpn.net/client/
+[https://openvpn.net/client/](https://openvpn.net/client/){:target="_blank"}
 
 ![image](https://bohansec.com/assets/vpn-blog/22.png "image")
 
@@ -128,11 +128,11 @@ Lastly, let’s run a PCAP capture on my local network to verify my VPN connecti
 
 To further harden your OpenVPN server, consider to review the following link:
 
-https://openvpn.net/vpn-server-resources/recommendations-to-improve-security-after-installation/
+[https://openvpn.net/vpn-server-resources/recommendations-to-improve-security-after-installation/](https://openvpn.net/vpn-server-resources/recommendations-to-improve-security-after-installation/){:target="_blank"}
 
 Reference:
 
-https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/
+[https://openvpn.net/vpn-server-resources/recommendations-to-improve-security-after-installation/](https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/){:target="_blank"}
 
 That’s all for today and thank you for reading. 
 
