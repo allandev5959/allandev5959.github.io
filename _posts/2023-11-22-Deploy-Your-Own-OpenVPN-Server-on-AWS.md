@@ -118,7 +118,7 @@ Let’s also do a speed test, while the speed dropped quite a bit compared to my
 
 ![image](https://bohansec.com/assets/vpn-blog/25.png "image")
 
-We can also track down the client's real IP in the log Log Reports section, this will be especially helpful if you want to track your user’s connection activity or look out for any suspicious connections to your VPN server. 
+We can also track down the client's real IP in the Log Reports section, this will be especially helpful if you want to track your user’s connection activity or look out for any suspicious connections to your VPN server. 
 
 ![image](https://bohansec.com/assets/vpn-blog/26.png "image")
 
