@@ -102,7 +102,7 @@ Once you configured the A record then wait for 30 minutes to an hour for the DNS
 
 ![image](https://bohansec.com/assets/vpn-blog/21.png "image")
 
-Next, depending on your operating system. we can download a VPN client at the following URL, and connect to the VPN server with the credentials we set earlier. 
+Next, depending on your operating system, we can download a VPN client at the following URL and connect to the VPN server with the credentials we set earlier. 
 
 [https://openvpn.net/client/](https://openvpn.net/client/){:target="_blank"}
 
