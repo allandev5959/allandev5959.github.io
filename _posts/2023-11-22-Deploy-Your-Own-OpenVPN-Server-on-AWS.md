@@ -96,7 +96,7 @@ Please refer to the following articles on how to configure an A record for your 
 
 [https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/](https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/){:target="_blank"}
 
-[https://openvpn.net/vpn-server-resources/setting-up-your-openvpn-access-server-hostname/](https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/){:target="_blank"}
+[https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/](https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/){:target="_blank"}
 
 Once you configured the A record then wait for 30 minutes to an hour for the DNS record to be propagated throughout the internet. 
 
