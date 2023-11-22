@@ -8,7 +8,7 @@ After using Surfshark VPN and constantly experiencing their IP being blocked by 
 
 ![image](https://bohansec.com/assets/vpn-blog/2.png "image")
 
-As you can see in the screenshot, the majority of the Surfshark IP runs on Datacamp which is constantly abused by bad actors to conduct nefarious activities across the internet and has a poor reputation. I ran the IP 37.19.211.115 that I connected to through AbuseIPDB and VirusTotal, and both returned negative results
+As you can see in the screenshot, the majority of the Surfshark IP runs on Datacamp which is constantly abused by bad actors to conduct nefarious activities across the internet and has a poor reputation. I ran the IP 37.19.211.115 that I connected to through [AbuseIPDB](https://www.abuseipdb.com/){:target="_blank"} and [VirusTotal](https://www.virustotal.com/){:target="_blank"}, and both returned negative results.
 
 ![image](https://bohansec.com/assets/vpn-blog/5.png "image")
 
