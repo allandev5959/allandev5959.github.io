@@ -30,7 +30,7 @@ Next, let’s go to the AWS Marketplace and search for “OpenVPN” Amazon Mach
 
 ![image](https://bohansec.com/assets/vpn-blog/8.png "image")
 
-Note that if you are a new user of AWS, you are eligible for 750 hours each month of free usage on a t2-micro instance which is the one we will use in this blog. For more information on the [AWS free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all){:target="_blank"}, please visit AWS Free-Tier. Please also note that the OpenVPN Access Server provides two concurrent connections on their free tier, so for my use case, I will just stick with the free tier to keep from being charged. 
+Note that if you are a new user of AWS, you are eligible for 750 hours each month of free usage on a t2-micro instance which is the one we will use in this blog. You can find more information on the AWS free tier at [here](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all){:target="_blank"}. Please also note that the OpenVPN Access Server provides two concurrent connections on their free tier, so for my use case, I will just stick with the free tier to keep from being charged. 
 
 ![image](https://bohansec.com/assets/vpn-blog/9.png "image")
 
