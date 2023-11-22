@@ -38,7 +38,7 @@ Note that if you are a new user of AWS, you are eligible for 750 hours each mont
 
 Next, let’s click on “Continue to Subscribe” with our OpenVPN Access Server then “Continue to Configuration”. Once you are on the “Configure this software” page, please choose the region that this EC2 instance should be launched, here I chose Canada. Then, go to “Continue to Launch”. 
 
-On the “Launch this software” page, change the “EC2 Instance Type” to “t2.micro” and “Security Group Settings” to the one OpenVPN has configured for you. I set the “Security Group” to the custom security group “OpenVPN-SG” I created earlier. Please refer to the OpenVPN official documentation with the following ports need that to be opened: [https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/](https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/){:target="_blank"}
+On the “Launch this software” page, change the “EC2 Instance Type” to “t2.micro” and “Security Group Settings” to the one OpenVPN has configured for you. I set the “Security Group” to the custom security group “OpenVPN-SG” I created earlier. Please refer to the OpenVPN official documentation with the following ports that need to be opened: [https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/](https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/){:target="_blank"}
 
 > For the security group, we recommend using the default group for the marketplace instance but adjusting the sources for some ports to improve security. 
 
