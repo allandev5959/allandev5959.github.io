@@ -134,7 +134,7 @@ Reference:
 
 [https://openvpn.net/vpn-server-resources/recommendations-to-improve-security-after-installation/](https://openvpn.net/vpn-server-resources/amazon-web-services-ec2-byol-appliance-quick-start-guide/){:target="_blank"}
 
-That’s all for today and thank you for reading. 
+Thank you for taking the time to engage today. If you have any further questions or need assistance in the future, feel free to reach out. Have a wonderful day!
 
 
 
