@@ -106,7 +106,7 @@ Let's view the beautiful Attack Map in action:
 
 ![gif](https://bohansec.com/assets/t-pot-blog/25.gif "gif")
 
-I kept the instance running for 24 hours to just collect enough attack data, you can see in the last 24 hours there have been quite a few attacks hit to my instance, more than 14000 for Cowire and 11000 for Honeytrap. The IP based in Mexico seems to contribute to the majority of the attacks.
+I kept the instance running for 24 hours to just collect enough attack data, you can see in the last 24 hours there have been quite a lot attacks hit to my instance, more than 14000 for Cowire and 11000 for Honeytrap. The IP based in Mexico seems to contribute to the majority of the attacks.
 
 ![image](https://bohansec.com/assets/t-pot-blog/26.png "image")
 
