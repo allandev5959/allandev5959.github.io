@@ -174,7 +174,7 @@ a7bf3c031ab66265ce724fc26c8f7565442a098b06b01ea8871f13179d168713  pty2
 
 [Attacker Source IP - Top 10 - Nov 27 - 28](https://bohansec.com/assets/t-pot-blog/Attacker-Source-IP-Top-10.csv){:target="_blank"}
 
-[Suricata Source IP - Top 10 - Nov 27 - 28](Suricata-Source-IP-Top-10.csv){:target="_blank"}
+[Suricata Source IP - Top 10 - Nov 27 - 28](https://bohansec.com/assets/t-pot-blog/Suricata-Source-IP-Top-10.csv){:target="_blank"}
 
 As demonstrated in this blog, a honeypot proves to be a formidable tool for capturing and analyzing emerging attack trends and Indicators of Compromise (IOCs).
 
