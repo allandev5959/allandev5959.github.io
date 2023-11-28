@@ -30,7 +30,7 @@ Once you click on the "Launch Instances" button and on the configuration page, l
 
 ![image](https://bohansec.com/assets/t-pot-blog/5.png "image")
 
-Next, let's choose an EC2 instance for our T-Pot. I selected the t3.xlarge instance which in the Canadian region, it will cost me $0.1856 US dollars per hour and it comes with 16 GB RAM, 4vCPU, and up to 5Gigbit network throughput, which meets the T-Pot recommendation that the standalone instance should have 8-16 GB RAM. If costs are a concern for you, you can choose t3.large which comes with 8 GB RAM for a cheaper hourly rate. Please note the difference between the t2 and t3 instances is that the t3 instance is the newer generation and comes with improved hardware, and it is also cheaper compared to the t2 instance so it makes much more sense to use a t3 instance versus a t2 instance. 
+Next, let's choose an EC2 instance for our T-Pot. I selected the t3.xlarge instance which in the Canadian region, it will cost me $0.1856 US dollars per hour and it comes with 16 GB RAM, 4 vCPU, and up to 5 Gigabit network throughput, which meets the T-Pot recommendation that the standalone instance should have 8-16 GB RAM. If costs are a concern for you, you can choose t3.large which comes with 8 GB RAM for a cheaper hourly rate. Please note the difference between the t2 and t3 instances is that the t3 instance is the newer generation and comes with improved hardware, and it is also cheaper compared to the t2 instance so it makes much more sense to use a t3 instance versus a t2 instance. 
 
 ![image](https://bohansec.com/assets/t-pot-blog/6.png "image")
 
