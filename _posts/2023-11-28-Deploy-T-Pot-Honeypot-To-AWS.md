@@ -12,6 +12,10 @@ Based on their [Github](https://github.com/telekom-security/tpotce){:target="_bl
 
 **_Please note that since we will use a higher-tier EC2 instance in AWS to meet the T-Pot resource intense requirement, this lab will incur charges. However, if you just want to experiment with T-Pot, then the fee incurred will be relatively small. Likely you will only spend a few bucks even if you keep the instance running for 24 hours._** 
 
+The below screenshot is the fee that occurred for my t3.xlarge instance:
+
+![image](https://bohansec.com/assets/t-pot-blog/36.png "image")
+
 ## T-Pot Deployment
 
 First, assuming you have already registered an account at [aws.amazon.com](https://aws.amazon.com/){:target="_blank"}, let's launch an EC2 instance. Here, I choose Canada Central region since I am based in Canada. However, you can deploy the T-Pot anywhere you want based on your preference. The attack you observed from the T-Pot will also be slightly different from region to region.
