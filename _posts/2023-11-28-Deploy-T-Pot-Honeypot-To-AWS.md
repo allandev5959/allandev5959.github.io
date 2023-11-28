@@ -78,7 +78,7 @@ Hit "Y" to continue:
 
 ![image](https://bohansec.com/assets/t-pot-blog/17.png "image")
 
-Next, select "STANDARD" installation and set up a username and password for your Web Admin UI..
+Next, select "STANDARD" installation and set up a username and password for your Web Admin UI.
 
 ![image](https://bohansec.com/assets/t-pot-blog/18.png "image")
 
