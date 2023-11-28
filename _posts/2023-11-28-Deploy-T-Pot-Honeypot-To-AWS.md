@@ -44,7 +44,7 @@ In the Key Pair section, you need to set up an SSH keypair and use the private k
 
 ![image](https://bohansec.com/assets/t-pot-blog/9.png "image")
 
-Before we connect to our instance, let's also create an elastic IP and associate it with our running instance. This will ensure the IP stays the same even if the instance restarted. Please note the elastic IP is free to use when it is linked to a running instance. It will occur fee if your instance is stopped. 
+Before we connect to our instance, let's also create an elastic IP and associate it with our running instance. This will ensure the IP stays the same even if the instance restarted. Please note the elastic IP is free to use when it is linked to a running instance. Fees will occur if your instance is stopped. 
 
 ![image](https://bohansec.com/assets/t-pot-blog/10.png "image")
 
@@ -58,7 +58,7 @@ Next, we will SSH into the instance with the private key we configured earlier. 
 
 ![image](https://bohansec.com/assets/t-pot-blog/13.png "image")
 
-We will then run the following commands to update the packages and install the Git then pull the T-Pot Github repo to the instance, and finally execute the install scirpt wih sudo. 
+We will then run the following commands to update the packages and install Git to pull the T-Pot Github repo to the instance, and finally execute the install script with sudo.   
 
 ```
 sudo apt update -y 
@@ -86,7 +86,7 @@ Next, select "STANDARD" installation and set up a username and password for your
 
 ![image](https://bohansec.com/assets/t-pot-blog/20.png "image")
 
-After a few mins, we can see the installation process is completed. Please note we won't be able to SSH into the instance from port 22 anymore and you will notice your connection is lost. You need to use port 64295 if you need to SSH into the instance moving forward.
+After a few minutes, we can see the installation process is completed. Please note we won't be able to SSH into the instance from port 22 anymore and you will notice your connection is lost. You need to use port 64295 if you need to SSH into the instance moving forward.
 
 ![image](https://bohansec.com/assets/t-pot-blog/21.png "image")
 
@@ -146,7 +146,7 @@ hxxp[://]139[.]180[.]185[.]248/wp-content/
 
 ![image](https://bohansec.com/assets/t-pot-blog/32.png "image")
 
-Examing of the hashes in VirusTotal, we found these "PTY" files appears to be some sort of Linux trojan that used by attackers to gain control on the comprimised Linux machines. 
+Examining the hashes in VirusTotal, we found these "PTY" files appear to be some sort of Linux trojan that is used by attackers to gain control of the compromised Linux machines.  
 
 ![image](https://bohansec.com/assets/t-pot-blog/33.png "image")
 
