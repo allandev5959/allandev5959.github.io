@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-11-28-Deploy-T-Pot-Honeypot-To-AWS
+title: Deploy T-Pot Honeypot To AWS
 ---
 ![Alt](https://bohansec.com/assets/t-pot-blog/1.jpg)
 
